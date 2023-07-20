@@ -1,0 +1,7 @@
+Employee ID:1234
+Employee Name     :Akhilesh
+Father's Name     :Shubh
+Employee Contact  :0987654321
+Email Information :akhilesh12@gmail.com
+Employee position :Trainee
+Employee Salary   :50000
